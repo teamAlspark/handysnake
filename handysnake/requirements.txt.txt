@@ -1,0 +1,4 @@
+numpy==1.15.2
+pygame==1.9.4
+PyAutoGUI==4.0.0
+opencv_python==1.9.4
